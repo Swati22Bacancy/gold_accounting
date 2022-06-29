@@ -193,7 +193,7 @@ var render = function () {
           _c("div", { staticClass: "row gx-lg-5 align-items-center" }, [
             _c("div", { staticClass: "login-div" }, [
               _c("div", { staticClass: "login-card" }, [
-                _c("div", { staticClass: "card-body login-form pt-5" }, [
+                _c("div", { staticClass: "login-form pt-5 pb-4" }, [
                   _c(
                     "form",
                     [
@@ -331,7 +331,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "input-group-append" }, [
-      _c("div", { staticClass: "input-group-text input-icons" }, [
+      _c("div", { staticClass: "input-icons" }, [
         _c("span", { staticClass: "fas fa-envelope" }),
       ]),
     ])
@@ -341,7 +341,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "input-group-append" }, [
-      _c("div", { staticClass: "input-group-text input-icons" }, [
+      _c("div", { staticClass: "input-icons" }, [
         _c("span", { staticClass: "fas fa-lock" }),
       ]),
     ])

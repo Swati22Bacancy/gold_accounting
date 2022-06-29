@@ -37,3 +37,6 @@ import Sidebar from '../components/layouts/Sidebar';
 <style src="../assets/styles/customstyle.css">
 /* @import './assets/styles/customstyle.css'; */
 </style>
+<style>
+@import url("../assets/styles/adminlte.css");
+</style>

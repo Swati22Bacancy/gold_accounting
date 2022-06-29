@@ -9,7 +9,7 @@
                 
                 <div class="login-div">
                     <div class="login-card">
-                        <div class="card-body login-form pt-5">
+                        <div class="login-form pt-5 pb-4">
                             <form>
                                 <!-- Email input -->
                                 <h6 style="text-align:center;color:#fff;padding-bottom: 20px;">Login to Start</h6>
@@ -18,7 +18,7 @@
                                     <div class="input-group mb-3">
           
                                         <div class="input-group-append">
-                                            <div class="input-group-text input-icons">
+                                            <div class="input-icons">
                                             <span class="fas fa-envelope"></span>
                                             </div>
                                         </div>
@@ -33,7 +33,7 @@
                                     <div class="input-group mb-3">
           
                                         <div class="input-group-append">
-                                            <div class="input-group-text input-icons">
+                                            <div class="input-icons">
                                             <span class="fas fa-lock"></span>
                                             </div>
                                         </div>
